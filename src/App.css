@@ -1,0 +1,51 @@
+@media (min-width:769px) and (max-width:1200px) {
+   .parag {
+      padding: 0 200px;
+   }
+}
+
+@media (min-width:600px) and (max-width:768px) {
+
+   .parag {
+      padding: 0 20px;
+   }
+
+   .detailsnow {
+      width: 70vw;
+   }
+   .padding_add{
+       padding-top: 1rem;
+   }
+}
+
+@media (min-width:430px) and (max-width:599px) {
+   .parag {
+      padding: 0 40px;
+   }
+
+   .about-section {
+      width: 400px;
+   }
+   .detailsnow {
+      width: 70vw;
+   }
+   .padding_add{
+       padding-top: 1rem;
+   }
+}
+
+@media (min-width:350px) and (max-width:429px) {
+   .parag {
+      padding: 0 30px;
+   }
+
+   .about-section {
+      width: 350px;
+   }
+   .detailsnow {
+      width: 70vw;
+   }
+   .padding_add{
+       padding-top: 1rem;
+   }
+}

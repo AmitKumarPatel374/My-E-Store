@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@media only screen and (max-width: 768px) {
+  .card{
+    margin-top: 1px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:850px ) {
+  
+   .navgap{
+    gap: 1rem;
+   }
+}
